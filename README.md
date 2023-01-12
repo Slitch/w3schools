@@ -7,7 +7,7 @@
 3. open the folder w3schools12jan2022
 4. open the index.html file in your browser
 
-if you want the necessary css an js file for oflfine use download the ekstrafiles her from github it contains bootstrap, jquery, w3 and angular. 
+if you want the necessary css an js file for offline use download the "ekstrafiles" here from github it contains bootstrap, jquery, w3 and angular. 
 
 Win: [w3schools12jan2022.zip - 511.99MB](https://www.mediafire.com/file/hhxc9bqxif5oo7t/w3schools12jan2022.zip/file)
 
